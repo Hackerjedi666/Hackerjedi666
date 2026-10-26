@@ -67,6 +67,20 @@ My **offensive security firm** — red teaming, VAPT, web & smart-contract audit
 
 ---
 
+## Explore Forensia
+
+<p align="center">
+  <a href="https://web3.forensia.ai/explore">
+    <img src="https://img.shields.io/badge/LIVE-on--chain%20investigations%20%26%20threat%20intel-0a0a0a?style=for-the-badge&logo=blockchaindotcom&logoColor=16C60C&labelColor=16C60C&color=0a0a0a" alt="Explore Forensia"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Trace wallets, follow the money, and read the chain at <a href="https://web3.forensia.ai/explore"><code>web3.forensia.ai/explore</code></a></sub>
+</p>
+
+---
+
 ## Arsenal
 
 <p align="left">
@@ -85,19 +99,10 @@ My **offensive security firm** — red teaming, VAPT, web & smart-contract audit
 
 ---
 
-## Signal
+## Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hackerjedi666&show_icons=true&hide_border=true&count_private=true&title_color=16C60C&icon_color=16C60C&text_color=c9d1c9&bg_color=0a0a0a" alt="stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hackerjedi666&hide_border=true&background=0a0a0a&stroke=16C60C&ring=16C60C&fire=16C60C&currStreakLabel=16C60C&sideLabels=c9d1c9&dates=666&currStreakNum=c9d1c9&sideNums=c9d1c9" alt="streak"/>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackerjedi666&layout=compact&hide_border=true&langs_count=8&title_color=16C60C&text_color=c9d1c9&bg_color=0a0a0a" alt="langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hackerjedi666&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Hackerjedi666/Hackerjedi666/output/github-snake-dark.svg" alt="contribution snake"/>
 </p>
 
 ---
