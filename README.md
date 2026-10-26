@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=16C60C&center=true&vCenter=true&width=720&lines=Founder+%40+OverWatchLabs+%E2%80%94+offensive+security+firm;Building+Forensia+%E2%80%94+Web3+blockchain+forensics;Breaking+things+so+they+can't+be+broken;Just+a+friendly+neighbourhood+hacker+%F0%9F%95%B7%EF%B8%8F" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=16C60C&center=true&vCenter=true&width=720&lines=Founder+%40+OverWatchLabs+%E2%80%94+offensive+security+firm;Building+Forensia+%E2%80%94+Web3+blockchain+forensics;Breaking+things+so+they+can't+be+broken;Just+a+friendly+neighbourhood+hacker" alt="typing"/>
   </a>
 </p>
 
@@ -38,13 +38,13 @@ hackerjedi@matrix:~$ whoami --verbose
 
 ---
 
-## 🛰️ What I'm building
+## What I'm building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 [Forensia](https://web3.forensia.ai)
+### [Forensia](https://web3.forensia.ai)
 **`web3.forensia.ai`**
 
 A **blockchain forensics platform** for tracing illicit on-chain activity — wallet attribution, fund-flow tracing, mixer/bridge analysis, and threat intelligence for Web3.
@@ -54,7 +54,7 @@ A **blockchain forensics platform** for tracing illicit on-chain activity — wa
 </td>
 <td width="50%" valign="top">
 
-### ⚔️ [OverWatchLabs](https://overwatchlabs.ai)
+### [OverWatchLabs](https://overwatchlabs.ai)
 **`overwatchlabs.ai`**
 
 My **offensive security firm** — red teaming, VAPT, web & smart-contract audits, and adversary emulation for teams that want to be attacked before the real attackers show up.
@@ -67,7 +67,7 @@ My **offensive security firm** — red teaming, VAPT, web & smart-contract audit
 
 ---
 
-## 🧰 Arsenal
+## Arsenal
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=16C60C"/>
@@ -81,12 +81,11 @@ My **offensive security firm** — red teaming, VAPT, web & smart-contract audit
   <img src="https://img.shields.io/badge/Burp_Suite-0a0a0a?style=flat-square&logo=burpsuite&logoColor=16C60C"/>
   <img src="https://img.shields.io/badge/nmap-0a0a0a?style=flat-square&logo=nmap&logoColor=16C60C"/>
   <img src="https://img.shields.io/badge/Ethereum-0a0a0a?style=flat-square&logo=ethereum&logoColor=16C60C"/>
-  <img src="https://img.shields.io/badge/Foundry-0a0a0a?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=16C60C"/>
 </p>
 
 ---
 
-## 📡 Signal
+## Signal
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hackerjedi666&show_icons=true&hide_border=true&count_private=true&title_color=16C60C&icon_color=16C60C&text_color=c9d1c9&bg_color=0a0a0a" alt="stats"/>
