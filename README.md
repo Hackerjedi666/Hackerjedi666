@@ -1,64 +1,110 @@
-<h1 align="center">Hi, I'm Abhimanyu 👋</h1>
-<h3 align="center">Just a friendly neighbourhood hacker 🕷️</h3>
+<!-- ░▒▓ HACKERJEDI ▓▒░ -->
+
+<a href="https://overwatchlabs.ai">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020402,50:0a2a0a,100:16c60c&height=200&section=header&text=hackerjedi&fontSize=70&fontColor=d7ffd7&animation=fadeIn&fontAlignY=38&desc=offensive%20security%20%E2%80%A2%20blockchain%20forensics%20%E2%80%A2%20founder&descSize=18&descAlignY=60&descColor=7fff7f" alt="header"/>
+</a>
 
 <p align="center">
-  <a href="https://twitter.com/hackerjedi666"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://instagram.com/abhimanyu_drawing"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://reddit.com/u/hackerjedi"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Hackerjedi666&style=for-the-badge&color=brightgreen" alt="Profile views"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=16C60C&center=true&vCenter=true&width=720&lines=Founder+%40+OverWatchLabs+%E2%80%94+offensive+security+firm;Building+Forensia+%E2%80%94+Web3+blockchain+forensics;Breaking+things+so+they+can't+be+broken;Just+a+friendly+neighbourhood+hacker+%F0%9F%95%B7%EF%B8%8F" alt="typing"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://overwatchlabs.ai"><img src="https://img.shields.io/badge/OverWatchLabs-0a0a0a?style=for-the-badge&logo=hackthebox&logoColor=16C60C&labelColor=0a0a0a" alt="OverWatchLabs"/></a>
+  <a href="https://web3.forensia.ai"><img src="https://img.shields.io/badge/Forensia-0a0a0a?style=for-the-badge&logo=blockchaindotcom&logoColor=16C60C&labelColor=0a0a0a" alt="Forensia"/></a>
+  <a href="https://twitter.com/hackerjedi666"><img src="https://img.shields.io/badge/@hackerjedi666-0a0a0a?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0a0a" alt="Twitter"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Hackerjedi666&style=for-the-badge&color=16C60C&label=VISITORS" alt="views"/>
 </p>
 
 ---
 
-### 🧠 About Me
+```console
+hackerjedi@matrix:~$ whoami --verbose
 
-```python
-class Hacker:
-    def __init__(self):
-        self.name   = "Abhimanyu Gupta"
-        self.alias  = "hackerjedi666"
-        self.role   = "Security Researcher & Builder"
-        self.focus  = ["Offensive Security", "Web App Security", "Blockchain / MEV"]
-        self.stack  = ["Python", "TypeScript", "Shell"]
-        self.motto  = "With great power comes great responsibility."
+  ┌─[ IDENTITY ]────────────────────────────────────────────────┐
+  │  handle   : hackerjedi666                                    │
+  │  name     : Abhimanyu Gupta                                  │
+  │  role     : Founder & Offensive Security Engineer            │
+  │  location : [ REDACTED ]        tz : UTC-12                  │
+  └─────────────────────────────────────────────────────────────┘
 
-    def say_hi(self):
-        print("Thanks for dropping by — let's break things (ethically).")
+  > building    : Forensia  — Web3 blockchain-forensics platform
+  > running      : OverWatchLabs — offensive security firm
+  > hunting      : smart-contract bugs · MEV · on-chain threats
+  > speaks       : Python · TypeScript · Solidity · Bash
+  > philosophy   : "attack to defend — assume breach, prove it"
 ```
 
-- 🔭 Building tooling around **pentesting automation**, **recon**, and **smart-contract security**
-- 🌐 Deep into **web security** (PortSwigger Web Security Academy, VAPT workflows)
-- ⛓️ Exploring **MEV**, **TEEs**, and **blockchain forensics**
-- 🤖 Experimenting with **AI-assisted security** workflows
-- 🎨 Off-keyboard: I draw — find me [@abhimanyu_drawing](https://instagram.com/abhimanyu_drawing)
+---
+
+## 🛰️ What I'm building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 [Forensia](https://web3.forensia.ai)
+**`web3.forensia.ai`**
+
+A **blockchain forensics platform** for tracing illicit on-chain activity — wallet attribution, fund-flow tracing, mixer/bridge analysis, and threat intelligence for Web3.
+
+> Making the blockchain readable for investigators.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚔️ [OverWatchLabs](https://overwatchlabs.ai)
+**`overwatchlabs.ai`**
+
+My **offensive security firm** — red teaming, VAPT, web & smart-contract audits, and adversary emulation for teams that want to be attacked before the real attackers show up.
+
+> We break it first, so nobody else can.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ Tech & Tools
+## 🧰 Arsenal
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=16C60C"/>
+  <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=16C60C"/>
+  <img src="https://img.shields.io/badge/Solidity-0a0a0a?style=flat-square&logo=solidity&logoColor=16C60C"/>
+  <img src="https://img.shields.io/badge/Bash-0a0a0a?style=flat-square&logo=gnubash&logoColor=16C60C"/>
+  <img src="https://img.shields.io/badge/Rust-0a0a0a?style=flat-square&logo=rust&logoColor=16C60C"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=16C60C"/>
+  <img src="https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=16C60C"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-0a0a0a?style=flat-square&logo=burpsuite&logoColor=16C60C"/>
+  <img src="https://img.shields.io/badge/nmap-0a0a0a?style=flat-square&logo=nmap&logoColor=16C60C"/>
+  <img src="https://img.shields.io/badge/Ethereum-0a0a0a?style=flat-square&logo=ethereum&logoColor=16C60C"/>
+  <img src="https://img.shields.io/badge/Foundry-0a0a0a?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=16C60C"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📡 Signal
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hackerjedi666&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hackerjedi666&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hackerjedi666&show_icons=true&hide_border=true&count_private=true&title_color=16C60C&icon_color=16C60C&text_color=c9d1c9&bg_color=0a0a0a" alt="stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hackerjedi666&hide_border=true&background=0a0a0a&stroke=16C60C&ring=16C60C&fire=16C60C&currStreakLabel=16C60C&sideLabels=c9d1c9&dates=666&currStreakNum=c9d1c9&sideNums=c9d1c9" alt="streak"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackerjedi666&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackerjedi666&layout=compact&hide_border=true&langs_count=8&title_color=16C60C&text_color=c9d1c9&bg_color=0a0a0a" alt="langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hackerjedi666&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
 </p>
 
 ---
 
-<p align="center"><i>⭐ From one hacker to another — keep learning, keep building.</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16c60c,50:0a2a0a,100:020402&height=120&section=footer" alt="footer"/>
+</p>
+
+<p align="center"><sub><code>$ exit 0</code> — <i>may the source be with you.</i></sub></p>
